@@ -6,6 +6,7 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
+        //TODO: something
 
         int[] numbers = {4, 6, 0, 1, 1, 7, 3, 9, 2, 8, 12, 346, 50, 346}; //liczby parzyste i nieparzyste / porządkowanie liczb / boobleSort
         //int[] tab = {20, 30, 40}; // przesunięcie o jedno do przodu, musi być na końcu 4 each, dodatkowa tablica
