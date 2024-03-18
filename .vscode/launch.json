@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "arrayList.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "bankAcoount.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort.BubbleSort",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "CiagFibonnaciego",
+            "request": "launch",
+            "mainClass": "ciagFibonnaciego.CiagFibonnaciego",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "fizzBuzz.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "hash.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "iterListy.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "liczbyWTab.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "PairsMapping",
+            "request": "launch",
+            "mainClass": "mapowaniePar.PairsMapping",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "palindrom.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "palindromPoleDoCwiczen.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(8)",
+            "request": "launch",
+            "mainClass": "palindromStary.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(9)",
+            "request": "launch",
+            "mainClass": "podzielnoscLiczb.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Proby",
+            "request": "launch",
+            "mainClass": "proby.Proby",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "recursion.Recursion",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(10)",
+            "request": "launch",
+            "mainClass": "recursionPoleDoPocwiczenia.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(11)",
+            "request": "launch",
+            "mainClass": "streamy.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(12)",
+            "request": "launch",
+            "mainClass": "string.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(13)",
+            "request": "launch",
+            "mainClass": "tablicaTypuKlasowego.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(14)",
+            "request": "launch",
+            "mainClass": "tablicaTypuKlasowego.abstrakcja.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(15)",
+            "request": "launch",
+            "mainClass": "tablice.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Tablice",
+            "request": "launch",
+            "mainClass": "tablice.Tablice",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Names",
+            "request": "launch",
+            "mainClass": "unikalneImiona.Names",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        },
+        {
+            "type": "java",
+            "name": "Main(16)",
+            "request": "launch",
+            "mainClass": "zbiory.Main",
+            "projectName": "Podstawowe algorytmy_a52e1271"
+        }
+    ]
+}
